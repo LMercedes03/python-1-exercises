@@ -5,7 +5,6 @@ def array_to_string(array):
     return string
 
 
-
 array = [1, 2, 3]
 # result = array_to_string(array)
 # print(result)
